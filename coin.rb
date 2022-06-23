@@ -7,7 +7,7 @@ puts 'Бросаем монетку'
 
 puts
 
-  if rand(11) == 10
+  if rand(6) == 5
     puts 'Монетка встала на ребро'
   elsif rand(2) == 1
     puts 'Выпал орел'
